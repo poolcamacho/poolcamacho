@@ -42,7 +42,7 @@ Welcome to my profile! I'm a passionate **Backend Developer**, **Software Archit
 ---
 
 ## 📫 Contact Me:
-- 📧 Email: [poolcamacho.dev@gmail.com](mailto:hello@poolcamacho.dev)
+- 📧 Email: [hello@poolcamacho.dev](mailto:hello@poolcamacho.dev)
 - 💼 LinkedIn: [Pool Camacho](https://www.linkedin.com/in/poolcamacho)
 - 🌐 Portfolio: [poolcamacho.dev](https://poolcamacho.dev)
 
