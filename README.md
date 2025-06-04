@@ -9,7 +9,6 @@ Welcome to my profile! I'm a passionate **Backend Developer**, **Software Archit
 - 🌱 **Learning:** Advanced AI integrations and Serverless computing.
 - 💬 **Ask me about:** Software architecture, cloud solutions, and building robust CI/CD pipelines.
 - 🎓 **Instructor:** 
-  - **Full Stack Development** at **4Geeks**.
   - **Backend Development** at **Tecylab**.
 
 ---
