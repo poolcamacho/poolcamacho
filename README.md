@@ -1,49 +1,31 @@
-# 👋 Hi there! I'm **Pool Camacho**, Senior Software Developer 🚀  
+# Pool Camacho
 
-Welcome to my profile! I'm a passionate **Backend Developer**, **Software Architect**, and **Instructor** with over 10 years of experience building scalable and efficient solutions for cloud-based architectures.
+**Senior Software Developer | Software Architect | Instructor**
 
----
-
-## 💻 About Me:
-- 🔭 **Currently working on:** Scalable Microservices with **Golang**, **.NET**, and **Node.js**.
-- 🌱 **Learning:** Advanced AI integrations and Serverless computing.
-- 💬 **Ask me about:** Software architecture, cloud solutions, and building robust CI/CD pipelines.
-- 🎓 **Instructor:** 
-  - **Backend Development** at **Tecylab**.
+I build scalable, cloud-native backend systems. With over 10 years of experience, I specialize in designing microservices architectures and delivering robust solutions across AWS, Azure, and GCP.
 
 ---
 
-## 🛠️ Languages and Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
+### What I do
+
+- Architect and develop distributed systems using **Go**, **.NET**, and **Node.js**
+- Design cloud infrastructure and CI/CD pipelines for production-grade applications
+- Teach backend development at **Tecylab** and full stack development at **4Geeks**
+
+### Tech I work with
+
+Go · .NET · Node.js · Python · Java · PostgreSQL · MongoDB · Docker · Kubernetes · AWS · Azure · GCP · Terraform · gRPC · REST · GraphQL
+
+### Notable work
+
+- Designed scalable microservices platforms for **Kushki**, **Cencosud**, and **Belcorp**
+- Built a talent management API monorepo using hexagonal architecture in Go
+- Delivered workshops and courses on advanced backend patterns and cloud architecture
+
+### Currently exploring
+
+Advanced AI integrations and serverless computing patterns.
 
 ---
 
-## 🏆 Achievements:
-- 🛠️ Designed and implemented **scalable microservices** architectures in **AWS**, **Azure**, and **GCP**.
-- 🌍 Developed cloud-native applications for companies like **Kushki**, **Cencosud**, and **Belcorp**.
-- 🎓 Delivered courses and workshops on advanced backend development with **.NET** and **Node.js**.
-- 🚀 Worked on a **talent-management-api** monorepo using **Hexagonal Architecture** with **Golang**.
-- 📚 Currently teaching:
-  - **Full Stack Development** at **4Geeks**.
-  - **Backend Development** at **Tecylab**.
-
----
-
-## 📫 Contact Me:
-- 📧 Email: [hello@poolcamacho.dev](mailto:hello@poolcamacho.dev)
-- 💼 LinkedIn: [Pool Camacho](https://www.linkedin.com/in/poolcamacho)
-- 🌐 Portfolio: [poolcamacho.dev](https://poolcamacho.dev)
-
----
-
+[Email](mailto:hello@poolcamacho.dev) · [LinkedIn](https://www.linkedin.com/in/poolcamacho) · [Portfolio](https://poolcamacho.dev)
