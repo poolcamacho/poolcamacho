@@ -1,31 +1,43 @@
 # Pool Camacho
 
-**Senior Software Developer | Software Architect | Instructor**
+**Senior Software Engineer · Software Architect · Backend Instructor**
+📍 Utah · 🌐 [poolcamacho.dev](https://poolcamacho.dev) · ✉️ hello@poolcamacho.dev
 
-I build scalable, cloud-native backend systems. With over 10 years of experience, I specialize in designing microservices architectures and delivering robust solutions across AWS, Azure, and GCP.
-
----
-
-### What I do
-
-- Architect and develop distributed systems using **Go**, **.NET**, and **Node.js**
-- Design cloud infrastructure and CI/CD pipelines for production-grade applications
-- Teach backend development at **Tecylab** and full stack development at **4Geeks**
-
-### Tech I work with
-
-Go · .NET · Node.js · Python · Java · PostgreSQL · MongoDB · Docker · Kubernetes · AWS · Azure · GCP · Terraform · gRPC · REST · GraphQL
-
-### Notable work
-
-- Designed scalable microservices platforms for **Kushki**, **Cencosud**, and **Belcorp**
-- Built a talent management API monorepo using hexagonal architecture in Go
-- Delivered workshops and courses on advanced backend patterns and cloud architecture
-
-### Currently exploring
-
-Advanced AI integrations and serverless computing patterns.
+> Diseño y construyo sistemas backend distribuidos, cloud-native y listos para escalar.
+> Más de 10 años entregando plataformas críticas y formando a la próxima generación de devs.
 
 ---
 
-[Email](mailto:hello@poolcamacho.dev) · [LinkedIn](https://www.linkedin.com/in/poolcamacho) · [Portfolio](https://poolcamacho.dev)
+### 🧠 Qué hago
+
+- **Arquitecto** plataformas de microservicios con arquitectura hexagonal, DDD y event-driven patterns
+- **Construyo** servicios backend en **Go**, **.NET**, **Node.js**, **Python**, **Java** y últimamente **Rust**
+- **Diseño** infraestructura cloud multi-nube (AWS · Azure · GCP) y pipelines de CI/CD para producción
+- **He enseñado** backend development en [**Tecylab**](https://tecylab.com)
+
+### 🛠️ Stack con el que trabajo
+
+**Languages** — Go · .NET / C# · Node.js · TypeScript · Python · Java · Rust
+**Data** — PostgreSQL · MongoDB · Redis · DynamoDB
+**Cloud & DevOps** — AWS · Azure · GCP · Docker · Kubernetes · Terraform · GitHub Actions · Jenkins
+**APIs** — REST · gRPC · GraphQL · WebSockets
+**Patterns** — Hexagonal · DDD · CQRS · Event-Driven · Serverless
+
+### 🚀 En qué estoy trabajando ahora
+
+- 🤖 **Plataformas de agentes AI** — construyendo infraestructura para chatbots multi-tenant y agentic workflows
+- 🦀 **Conduit** — plataforma SaaS de chatbots en Rust: AI/channel agnóstica, pipeline-based, widget embebible
+- 🔌 **Servidores MCP** — integraciones con Jira, Bitbucket y otras herramientas para automatizar flujos con LLMs
+- ☁️ **Serverless patterns** avanzados y observabilidad en producción
+
+### 🏆 Trabajo destacado
+
+- Plataformas de microservicios para **Kushki**, **Cencosud** y **Belcorp**
+- API de talent management en Go con arquitectura hexagonal (monorepo)
+- Workshops y cursos sobre backend patterns avanzados, cloud y DevOps
+
+### 📬 Contacto
+
+[Portfolio](https://poolcamacho.dev) · [LinkedIn](https://www.linkedin.com/in/poolcamacho) · [Email](mailto:hello@poolcamacho.dev)
+
+*Disponible para oportunidades de arquitectura, consultoría y staff engineering.*
