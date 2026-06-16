@@ -1,7 +1,7 @@
 # Pool Camacho
 
 **Senior Software Engineer · Software Architect · Backend Instructor**
-📍 Utah · 🌐 [poolcamacho.dev](https://poolcamacho.dev) · ✉️ hello@poolcamacho.dev
+📍 Utah · 🏢 Founder @ [Acoderia](https://acoderia.com) · 🌐 [poolcamacho.dev](https://poolcamacho.dev) · ✉️ hello@poolcamacho.dev
 
 > I design and build distributed, cloud-native backend systems built to scale.
 > 10+ years shipping mission-critical platforms and training the next generation of developers.
@@ -47,9 +47,7 @@
 ### 🌱 What I'm working on now
 
 - 🦀 Building OSS tools in **Rust** (flow engines, supply-chain security, dev tooling)
-- 🤖 **AI agent platforms**: infrastructure for multi-tenant chatbots and agentic workflows
-- 🔌 **MCP servers**: integrations (Jira, Bitbucket, and more) to automate workflows with LLMs
-- ☁️ Advanced **serverless patterns** and production observability
+- 🤖 **AI agent platforms** at Acoderia: infrastructure for multi-tenant chatbots and agentic workflows
 
 ### 🏆 Experience
 
