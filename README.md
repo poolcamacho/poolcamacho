@@ -54,7 +54,6 @@
 ### 🏆 Experience
 
 - Microservice platforms for **Kushki**, **Cencosud**, and **Belcorp**
-- Talent management API in Go with hexagonal architecture (monorepo)
 - Workshops and courses on advanced backend patterns, cloud, and DevOps
 
 ### 🗣️ Languages
