@@ -3,17 +3,17 @@
 **Senior Software Engineer · Software Architect · Backend Instructor**
 📍 Utah · 🌐 [poolcamacho.dev](https://poolcamacho.dev) · ✉️ hello@poolcamacho.dev
 
-> Diseño y construyo sistemas backend distribuidos, cloud-native y listos para escalar.
-> Más de 10 años entregando plataformas críticas y formando a la próxima generación de devs.
+> I design and build distributed, cloud-native backend systems built to scale.
+> 10+ years shipping mission-critical platforms and training the next generation of developers.
 
 ---
 
-### 🧠 Qué hago
+### 🧠 What I do
 
-- **Arquitecto** plataformas de microservicios con arquitectura hexagonal, DDD y event-driven patterns
-- **Construyo** servicios backend en **Go**, **.NET**, **Node.js**, **Python**, **Java** y últimamente **Rust**
-- **Diseño** infraestructura cloud multi-nube (AWS · Azure · GCP) y pipelines de CI/CD para producción
-- **Enseño** backend development, cloud y DevOps a la próxima generación de devs
+- **Architect** microservice platforms using hexagonal architecture, DDD, and event-driven patterns
+- **Build** backend services in **Go**, **.NET**, **Node.js**, **Python**, **Java**, and lately **Rust**
+- **Design** multi-cloud infrastructure (AWS · Azure · GCP) and production CI/CD pipelines
+- **Teach** backend development, cloud, and DevOps to the next generation of developers
 
 ### 🛠️ Stack
 
@@ -34,31 +34,36 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 
-**Patterns** — Hexagonal · DDD · CQRS · Event-Driven · Serverless &nbsp;·&nbsp; **APIs** — REST · gRPC · GraphQL · WebSockets
+**Patterns:** Hexagonal · DDD · CQRS · Event-Driven · Serverless &nbsp;·&nbsp; **APIs:** REST · gRPC · GraphQL · WebSockets
 
-### 🚀 Proyectos destacados
+### 🚀 Featured projects
 
-| Proyecto | Descripción | |
+| Project | What it is | |
 |---|---|---|
-| **[Maple](https://github.com/poolcamacho/Maple)** | Cliente Git nativo de macOS en SwiftUI — grafo de commits con topología real, diff/blame inline, merge y rebase con resolución de conflictos | ⭐ 37 · Swift |
-| **[z8run](https://github.com/z8run/z8run)** | Motor de flujos visual open-source para automatización, pipelines de IA e IoT — alternativa self-hosted a n8n y Node-RED | ⭐ 16 · Rust + React |
-| **[aegis](https://github.com/z8run/aegis)** | Scanner de seguridad supply-chain para paquetes npm — detecta código malicioso, typosquatting y dependencias comprometidas antes de instalar | ⭐ 4 · Rust |
+| **[Maple](https://github.com/poolcamacho/Maple)** | Native macOS Git client built with SwiftUI. Real-topology commit graph, inline diff and blame, merge and rebase with conflict resolution. | ⭐ 37 · Swift |
+| **[z8run](https://github.com/z8run/z8run)** | Open-source visual flow engine for automation, AI pipelines, and IoT. A self-hosted alternative to n8n and Node-RED. | ⭐ 16 · Rust + React |
+| **[aegis](https://github.com/z8run/aegis)** | Supply-chain security scanner for npm packages. Detects malicious code, typosquatting, and compromised dependencies before you install. | ⭐ 4 · Rust |
 
-### 🌱 En qué estoy ahora
+### 🌱 What I'm working on now
 
-- 🦀 Construyendo herramientas OSS en **Rust** (motores de flujo, seguridad de supply-chain, tooling de dev)
-- 🤖 **Plataformas de agentes IA** — infraestructura para chatbots multi-tenant y agentic workflows
-- 🔌 **Servidores MCP** — integraciones (Jira, Bitbucket, etc.) para automatizar flujos con LLMs
-- ☁️ **Serverless patterns** avanzados y observabilidad en producción
+- 🦀 Building OSS tools in **Rust** (flow engines, supply-chain security, dev tooling)
+- 🤖 **AI agent platforms**: infrastructure for multi-tenant chatbots and agentic workflows
+- 🔌 **MCP servers**: integrations (Jira, Bitbucket, and more) to automate workflows with LLMs
+- ☁️ Advanced **serverless patterns** and production observability
 
-### 🏆 Experiencia
+### 🏆 Experience
 
-- Plataformas de microservicios para **Kushki**, **Cencosud** y **Belcorp**
-- API de talent management en Go con arquitectura hexagonal (monorepo)
-- Workshops y cursos sobre backend patterns avanzados, cloud y DevOps
+- Microservice platforms for **Kushki**, **Cencosud**, and **Belcorp**
+- Talent management API in Go with hexagonal architecture (monorepo)
+- Workshops and courses on advanced backend patterns, cloud, and DevOps
 
-### 📬 Contacto
+### 🗣️ Languages
+
+- **Spanish:** native
+- **English:** technical and written
+
+### 📬 Contact
 
 [Portfolio](https://poolcamacho.dev) · [LinkedIn](https://www.linkedin.com/in/poolcamacho) · [Email](mailto:hello@poolcamacho.dev)
 
-*Disponible para oportunidades de arquitectura, consultoría y staff engineering.*
+*Available for architecture, consulting, and staff engineering opportunities.*
